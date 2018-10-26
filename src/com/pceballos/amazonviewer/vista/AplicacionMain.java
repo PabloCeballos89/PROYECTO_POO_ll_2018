@@ -12,5 +12,6 @@ package com.pceballos.amazonviewer.vista;
 public class AplicacionMain {
     public static void main(String[] args) {
         System.out.println("Hola mundo");
+        System.out.println("Bienvenidos a POO II");
     }
 }
